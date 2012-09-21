@@ -1,1 +1,3 @@
 This file was created by JetBrains RubyMine 4.5.3 for binding GitHub repository
+
+Ukázka z knihy MongoDB in Action (http://www.manning.com/banker/). Kód je lehce upraven, aby fungoval i v současné (1.9.3) verzi Ruby.
